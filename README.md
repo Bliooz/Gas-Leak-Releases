@@ -1,9 +1,10 @@
-# Gas-Leak-Releases
-
-# Gas Leak v1.6.0
+# Gas Leak v1.6.1
 **Minecraft:** 1.21.1  **Loader:** NeoForge (21.1+)  Client only
 
-## What's new in v1.6.0
+## What's new in v1.6.1
+- **Fixed:** StorageESP, ESP, Tracers, XRay outlines, waypoints and Nametags now show through blocks with any mod setup
+
+## v1.6.0
 ### HUD
 - **SessionStats** – playtime, distance travelled, deaths and blocks mined
 - **ArmorHUD** – armour and held items with durability, warns before anything breaks
@@ -37,7 +38,7 @@
 
 ## Install
 1. Install **NeoForge for Minecraft 1.21.1**
-2. Put `GasLeak-1.6.0.jar` in your `mods` folder
+2. Put `GasLeak-1.6.1.jar` in your `mods` folder
 3. Launch game & load into a server, press **Right Shift** in a world and enter your access key (CONTACT: @DevBliooz to inquire about a key)
 4. Add your server in the **Servers** tab to unlock everything there
 
